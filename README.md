@@ -1,9 +1,8 @@
-# network-traffic-analysis
-network traffic analysis practice using tcpdump Wireshark and packet inspection
 
 # Network Traffic Analysis Lab
 
 This repository documents my practice analyzing network traffic for cybersecurity purposes.
+Capturing packets using packet sniffing tools such as tcpdump or Wireshark and analyze captured communication.
 
 ## Topics covered
 
