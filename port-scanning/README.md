@@ -71,3 +71,15 @@ This lab helped me understand:
 - how SYN scanning behaves on the network level
 - how to identify scanning activity in Wireshark
 - how reconnaissance activity appears in packet captures
+
+## Work Environment
+
+- Windows 11 host
+- WSL environment
+- Local LAN Network
+- Target device : home router
+
+## Notes and Additional Screenshots
+
+This lab was repeated to capture clearer traffic patterns and improve analysis
+The screenshots were taken later to better demonstrate th traffic patterns and analysis.
