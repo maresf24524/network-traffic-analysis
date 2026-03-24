@@ -57,7 +57,7 @@ These services were running on the target device
 
 Port scanning creates a recognizable traffic patterns:
 
-- high number of SYN packets
+- high number of SYN packets 
 - many different destination ports
 - very short time interval
 
@@ -81,6 +81,8 @@ This lab helped me understand:
 
 ## Notes and Additional Screenshots
 
-This lab was repeated to capture clearer traffic patterns and improve analysis
+This lab was repeated to capture clearer traffic patterns and improve analysis in VBox Ubuntu-lab.
 
-The screenshots were taken later to better demonstrate th traffic patterns and analysis.
+The screenshots were taken later to better demonstrate the traffic patterns and analysis.
+
+
