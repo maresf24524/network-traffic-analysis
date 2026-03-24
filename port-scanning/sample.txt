@@ -1,0 +1,50 @@
+15:01:47.842942 enp0s3 In  IP carpaccio.canonical.com.https > Ubuntu-lab.36494: Flags [.], seq 581620021:581621389, ack 777940293, win 5, options [nop,nop,TS val 1448011146 ecr 1232511770], length 1368
+15:01:47.848074 enp0s3 In  IP snapstore-content-cache-3.ps5.canonical.com.https > Ubuntu-lab.39806: Flags [.], seq 2620290412:2620291780, ack 3472694785, win 5, options [nop,nop,TS val 2357415381 ecr 911007045], length 1368
+15:01:47.855102 enp0s3 In  IP carpaccio.canonical.com.https > Ubuntu-lab.36494: Flags [.], seq 1368:2736, ack 1, win 5, options [nop,nop,TS val 1448011158 ecr 1232511770], length 1368
+15:01:47.855245 enp0s3 Out IP Ubuntu-lab.36494 > carpaccio.canonical.com.https: Flags [.], ack 2736, win 375, options [nop,nop,TS val 1232511918 ecr 1448011146], length 0
+15:01:47.859726 enp0s3 In  IP snapstore-content-cache-3.ps5.canonical.com.https > Ubuntu-lab.39806: Flags [.], seq 1368:2736, ack 1, win 5, options [nop,nop,TS val 2357415395 ecr 911007073], length 1368
+15:01:47.859787 enp0s3 Out IP Ubuntu-lab.39806 > snapstore-content-cache-3.ps5.canonical.com.https: Flags [.], ack 2736, win 302, options [nop,nop,TS val 911007152 ecr 2357415381], length 0
+15:01:47.868718 enp0s3 In  IP carpaccio.canonical.com.https > Ubuntu-lab.36494: Flags [.], seq 2736:4104, ack 1, win 5, options [nop,nop,TS val 1448011170 ecr 1232511770], length 1368
+15:01:47.876090 enp0s3 In  IP snapstore-content-cache-3.ps5.canonical.com.https > Ubuntu-lab.39806: Flags [.], seq 2736:4104, ack 1, win 5, options [nop,nop,TS val 2357415409 ecr 911007073], length 1368
+15:01:47.879939 enp0s3 In  IP carpaccio.canonical.com.https > Ubuntu-lab.36494: Flags [.], seq 4104:5472, ack 1, win 5, options [nop,nop,TS val 1448011182 ecr 1232511797], length 1368
+15:01:47.880151 enp0s3 Out IP Ubuntu-lab.36494 > carpaccio.canonical.com.https: Flags [.], ack 5472, win 375, options [nop,nop,TS val 1232511943 ecr 1448011170], length 0
+15:01:47.890935 enp0s3 In  IP snapstore-content-cache-3.ps5.canonical.com.https > Ubuntu-lab.39806: Flags [.], seq 4104:5472, ack 1, win 5, options [nop,nop,TS val 2357415422 ecr 911007101], length 1368
+15:01:47.890936 enp0s3 In  IP carpaccio.canonical.com.https > Ubuntu-lab.36494: Flags [.], seq 5472:6840, ack 1, win 5, options [nop,nop,TS val 1448011194 ecr 1232511797], length 1368
+15:01:47.891001 enp0s3 Out IP Ubuntu-lab.39806 > snapstore-content-cache-3.ps5.canonical.com.https: Flags [.], ack 5472, win 302, options [nop,nop,TS val 911007183 ecr 2357415409], length 0
+15:01:47.909913 enp0s3 In  IP snapstore-content-cache-3.ps5.canonical.com.https > Ubuntu-lab.39806: Flags [.], seq 5472:6840, ack 1, win 5, options [nop,nop,TS val 2357415436 ecr 911007101], length 1368
+15:01:47.909914 enp0s3 In  IP carpaccio.canonical.com.https > Ubuntu-lab.36494: Flags [.], seq 6840:8208, ack 1, win 5, options [nop,nop,TS val 1448011206 ecr 1232511821], length 1368
+15:01:47.910130 enp0s3 Out IP Ubuntu-lab.36494 > carpaccio.canonical.com.https: Flags [.], ack 8208, win 375, options [nop,nop,TS val 1232511973 ecr 1448011194], length 0
+15:01:47.912227 enp0s3 In  IP carpaccio.canonical.com.https > Ubuntu-lab.36494: Flags [P.], seq 8208:9576, ack 1, win 5, options [nop,nop,TS val 1448011218 ecr 1232511848], length 1368
+15:01:47.912774 enp0s3 Out IP Ubuntu-lab.36494 > carpaccio.canonical.com.https: Flags [.], ack 9576, win 375, options [nop,nop,TS val 1232511976 ecr 1448011218], length 0
+15:01:47.915776 enp0s3 In  IP snapstore-content-cache-3.ps5.canonical.com.https > Ubuntu-lab.39806: Flags [.], seq 6840:8208, ack 1, win 5, options [nop,nop,TS val 2357415450 ecr 911007126], length 1368
+15:01:47.915854 enp0s3 Out IP Ubuntu-lab.39806 > snapstore-content-cache-3.ps5.canonical.com.https: Flags [.], ack 8208, win 302, options [nop,nop,TS val 911007208 ecr 2357415436], length 0
+15:01:47.927656 enp0s3 In  IP carpaccio.canonical.com.https > Ubuntu-lab.36494: Flags [.], seq 9576:10944, ack 1, win 5, options [nop,nop,TS val 1448011230 ecr 1232511848], length 1368
+15:01:47.929810 enp0s3 In  IP snapstore-content-cache-3.ps5.canonical.com.https > Ubuntu-lab.39806: Flags [.], seq 8208:9576, ack 1, win 5, options [nop,nop,TS val 2357415464 ecr 911007126], length 1368
+15:01:47.939863 enp0s3 In  IP carpaccio.canonical.com.https > Ubuntu-lab.36494: Flags [.], seq 10944:12312, ack 1, win 5, options [nop,nop,TS val 1448011243 ecr 1232511848], length 1368
+15:01:47.940326 enp0s3 Out IP Ubuntu-lab.36494 > carpaccio.canonical.com.https: Flags [.], ack 12312, win 375, options [nop,nop,TS val 1232512003 ecr 1448011230], length 0
+15:01:47.944168 enp0s3 In  IP snapstore-content-cache-3.ps5.canonical.com.https > Ubuntu-lab.39806: Flags [.], seq 9576:10944, ack 1, win 5, options [nop,nop,TS val 2357415477 ecr 911007152], length 1368
+15:01:47.944256 enp0s3 Out IP Ubuntu-lab.39806 > snapstore-content-cache-3.ps5.canonical.com.https: Flags [.], ack 10944, win 302, options [nop,nop,TS val 911007236 ecr 2357415464], length 0
+15:01:47.949937 enp0s3 In  IP carpaccio.canonical.com.https > Ubuntu-lab.36494: Flags [.], seq 12312:13680, ack 1, win 5, options [nop,nop,TS val 1448011255 ecr 1232511872], length 1368
+15:01:47.957569 enp0s3 In  IP snapstore-content-cache-3.ps5.canonical.com.https > Ubuntu-lab.39806: Flags [.], seq 10944:12312, ack 1, win 5, options [nop,nop,TS val 2357415491 ecr 911007152], length 1368
+15:01:47.970124 enp0s3 In  IP carpaccio.canonical.com.https > Ubuntu-lab.36494: Flags [.], seq 13680:15048, ack 1, win 5, options [nop,nop,TS val 1448011267 ecr 1232511892], length 1368
+15:01:47.970125 enp0s3 In  IP snapstore-content-cache-3.ps5.canonical.com.https > Ubuntu-lab.39806: Flags [.], seq 12312:13680, ack 1, win 5, options [nop,nop,TS val 2357415505 ecr 911007183], length 1368
+15:01:47.970189 enp0s3 Out IP Ubuntu-lab.39806 > snapstore-content-cache-3.ps5.canonical.com.https: Flags [.], ack 13680, win 302, options [nop,nop,TS val 911007262 ecr 2357415491], length 0
+15:01:47.970319 enp0s3 Out IP Ubuntu-lab.36494 > carpaccio.canonical.com.https: Flags [.], ack 15048, win 375, options [nop,nop,TS val 1232512033 ecr 1448011255], length 0
+15:01:47.973883 enp0s3 In  IP carpaccio.canonical.com.https > Ubuntu-lab.36494: Flags [.], seq 15048:16416, ack 1, win 5, options [nop,nop,TS val 1448011279 ecr 1232511892], length 1368
+15:01:47.986227 enp0s3 In  IP snapstore-content-cache-3.ps5.canonical.com.https > Ubuntu-lab.39806: Flags [.], seq 13680:15048, ack 1, win 5, options [nop,nop,TS val 2357415518 ecr 911007183], length 1368
+15:01:47.989276 enp0s3 In  IP carpaccio.canonical.com.https > Ubuntu-lab.36494: Flags [.], seq 16416:17784, ack 1, win 5, options [nop,nop,TS val 1448011291 ecr 1232511918], length 1368
+15:01:47.989734 enp0s3 Out IP Ubuntu-lab.36494 > carpaccio.canonical.com.https: Flags [.], ack 17784, win 375, options [nop,nop,TS val 1232512053 ecr 1448011279], length 0
+15:01:47.997884 enp0s3 In  IP snapstore-content-cache-3.ps5.canonical.com.https > Ubuntu-lab.39806: Flags [.], seq 15048:16416, ack 1, win 5, options [nop,nop,TS val 2357415532 ecr 911007208], length 1368
+15:01:47.997964 enp0s3 Out IP Ubuntu-lab.39806 > snapstore-content-cache-3.ps5.canonical.com.https: Flags [.], ack 16416, win 302, options [nop,nop,TS val 911007290 ecr 2357415518], length 0
+15:01:47.999449 enp0s3 In  IP carpaccio.canonical.com.https > Ubuntu-lab.36494: Flags [.], seq 17784:19152, ack 1, win 5, options [nop,nop,TS val 1448011303 ecr 1232511918], length 1368
+15:01:48.009333 enp0s3 In  IP carpaccio.canonical.com.https > Ubuntu-lab.36494: Flags [.], seq 19152:20520, ack 1, win 5, options [nop,nop,TS val 1448011315 ecr 1232511943], length 1368
+15:01:48.010146 enp0s3 Out IP Ubuntu-lab.36494 > carpaccio.canonical.com.https: Flags [.], ack 20520, win 375, options [nop,nop,TS val 1232512073 ecr 1448011303], length 0
+15:01:48.014423 enp0s3 In  IP snapstore-content-cache-3.ps5.canonical.com.https > Ubuntu-lab.39806: Flags [.], seq 16416:17784, ack 1, win 5, options [nop,nop,TS val 2357415546 ecr 911007208], length 1368
+15:01:48.025698 enp0s3 In  IP carpaccio.canonical.com.https > Ubuntu-lab.36494: Flags [.], seq 20520:21888, ack 1, win 5, options [nop,nop,TS val 1448011327 ecr 1232511943], length 1368
+15:01:48.028952 enp0s3 In  IP snapstore-content-cache-3.ps5.canonical.com.https > Ubuntu-lab.39806: Flags [.], seq 17784:19152, ack 1, win 5, options [nop,nop,TS val 2357415559 ecr 911007236], length 1368
+15:01:48.029046 enp0s3 Out IP Ubuntu-lab.39806 > snapstore-content-cache-3.ps5.canonical.com.https: Flags [.], ack 19152, win 302, options [nop,nop,TS val 911007321 ecr 2357415546], length 0
+15:01:48.033363 enp0s3 In  IP carpaccio.canonical.com.https > Ubuntu-lab.36494: Flags [.], seq 21888:23256, ack 1, win 5, options [nop,nop,TS val 1448011339 ecr 1232511943], length 1368
+15:01:48.033804 enp0s3 Out IP Ubuntu-lab.36494 > carpaccio.canonical.com.https: Flags [.], ack 23256, win 375, options [nop,nop,TS val 1232512097 ecr 1448011327], length 0
+15:01:48.036423 enp0s3 In  IP snapstore-content-cache-3.ps5.canonical.com.https > Ubuntu-lab.39806: Flags [.], seq 19152:20520, ack 1, win 5, options [nop,nop,TS val 2357415573 ecr 911007236], length 1368
+15:01:48.049965 enp0s3 In  IP carpaccio.canonical.com.https > Ubuntu-lab.36494: Flags [.], seq 23256:24624, ack 1, win 5, options [nop,nop,TS val 1448011352 ecr 1232511976], length 1368
+15:01:48.060230 enp0s3 In  IP snapstore-content-cache-3.ps5.canonical.com.https > Ubuntu-lab.39806: Flags [.], seq 20520:21888, ack 1, win 5, options [nop,nop,TS val 2357415587 ecr 911007262], length 1368
