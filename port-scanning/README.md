@@ -82,4 +82,5 @@ This lab helped me understand:
 ## Notes and Additional Screenshots
 
 This lab was repeated to capture clearer traffic patterns and improve analysis
+
 The screenshots were taken later to better demonstrate th traffic patterns and analysis.
